@@ -1,0 +1,37 @@
+
+public class printDayinWord {
+
+    public static void main (string []args) {
+
+
+init dayNumber=0, 1, 2, 3, 4, 5, 6, 7;
+
+switch (dayNumber) {
+    case 1:
+    system.out.println("Sunday");
+    break;
+    case 2:
+    system.out.println("Monday");
+    break;
+    case 3:
+    system.out.println("Tuesday");
+    
+    case 5:
+    system.out.println("Thuesday");
+    break;
+    case 6:
+    system.out.println("Friday");
+    break;
+    case 7:
+    system.out.println("Saturday");
+    break;
+    defaut;
+    system.out.println("Not a valid day");
+
+    
+
+
+}
+
+    }
+}
