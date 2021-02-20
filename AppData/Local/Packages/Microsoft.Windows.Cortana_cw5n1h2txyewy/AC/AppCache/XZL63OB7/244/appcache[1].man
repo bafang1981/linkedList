@@ -1,0 +1,36 @@
+CACHE MANIFEST
+# Version:d2d119b8
+CACHE:
+/AS/API/WindowsCortanaPane/V2/Init
+https://www.bing.com/rb/19/cir2,ortl,cc,nc/_ae0cB8fPDMkfSJUO5xUuczSt7E.css?bu=CaUGtAKiA_IG-gX0BaYEcHA&or=w
+https://www.bing.com/rb/19/cir2,ortl,cc,nc/YFRiFdAq8JMFRbEqynlPcrVqvb4.css?bu=CHA28QFRcHBwggI&or=w
+https://www.bing.com/rb/46/ortl,cc,nc/pdDKwBCexH8cKQFyK4LcJkh-gFc.css?bu=A4gCjAKPAg&or=w
+https://www.bing.com/rb/6I/cir2,ortl,cc,nc/q98YDNQOuvqy6E35l53BIDb--qo.css?bu=E_4E-wSUBbwFigWHBfUEtgWXBfUEmgX1BKgFsQWrBaAF9QT1BPUE&or=w
+https://www.bing.com/rb/6I/ortl,cc,nc/QNBBNqWD9F_Blep-UqQSqnMp-FI.css?bu=AfUE&or=w
+https://www.bing.com/rp/3xpa4GfuvZO9-SOG38Vx8VeyHmY.br.js
+https://www.bing.com/rp/41Ctwd2X9VNGNHVpdti2vTFozWw.br.js
+https://www.bing.com/rp/98-tFzBbrLP3oaKdmZtyZ4BBBI4.br.js
+https://www.bing.com/rp/apJBWPAcnepvUuiqBkQRUHqfe4M.br.js
+https://www.bing.com/rp/BQR--Mi6Hdug9aUgfjMzORag63E.br.js
+https://www.bing.com/rp/gDwIbFjVPJ9HiUknJAC9IgQHtdo.br.js
+https://www.bing.com/rp/I-iaeF2_hBWL-N4uY_JLxrlxDpc.br.js
+https://www.bing.com/rp/jhP1uapRf8Z8Qb959t11DNTsvB8.br.js
+https://www.bing.com/rp/jz5JHWe_2WCod7u1RNWmByRezL4.br.js
+https://www.bing.com/rp/MAi8ZrMgFhG81tZ07Arc2JEjTY8.br.js
+https://www.bing.com/rp/MDqPc1m5c6NCOcjcf9QO_UfJAUI.br.js
+https://www.bing.com/rp/mKjDwiPthUO8jJta9Ika4SC1j6U.br.js
+https://www.bing.com/rp/nXqAdV0ZpqLy92Tu5EBYWuK80-4.br.js
+https://www.bing.com/rp/ouYi6bc5kgIW7912DUjutiflydw.br.js
+https://www.bing.com/rp/TJkyBfZhNVw9l2HAW3TbsZKbNwc.br.js
+https://www.bing.com/rp/Tx2k_RqSjHBfcrWfGyThvVWoVXk.br.js
+https://www.bing.com/rp/VUJZBweRcUw_Aor-b7iSFKLHK1M.br.js
+https://www.bing.com/rp/wpOkudfiDrK7YhTBui-7RLu_oCE.br.js
+https://www.bing.com/rp/Yi3Flkft8YS8nbd9qCHjIlXAHPg.br.js
+https://www.bing.com/rp/zEQqhwKoETyGdQapOnP2uL1FFF0.br.js
+https://www.bing.com/rp/zh8Gb8BdCdZddFgn7wQ6G86Jdok.br.js
+https://www.bing.com/rs/2z/3i/ortl,cc,nc/BBDBvk5AokRBwrox4FNOb3dTd1E.css?or=w
+https://www.bing.com/rs/6K/6/cj,nj/p_H40Ndq102p2Socno0_V88cqhw.js?or=w
+https://www.bing.com/rs/6K/a/cj,nj/cIvxu-fMnMdzztTisJe5MbkcX80.js?or=w
+https://www.bing.com/rs/6t/RE/ortl,cc,nc/nEl6gm6izUrrDobE23TevZhe_fI.css?or=w
+NETWORK:
+*
